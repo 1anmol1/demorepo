@@ -1,4 +1,4 @@
 # demorepo
 This is my demo repository.
 <br>
-Author- Anmol
+Author- Anmol Patil
